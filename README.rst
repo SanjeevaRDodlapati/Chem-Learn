@@ -17,7 +17,7 @@ ChemLearn: Deep neural networks for chemistry
   :target: http://chemlearn.readthedocs.io
 
 .. |DOI| image:: https://zenodo.org/badge/68630079.svg
-   :target: https://zenodo.org/badge/latestdoi/68630079
+   :target:
 
 .. |Tweet| image:: https://img.shields.io/twitter/url/http/shields.io.svg?style=social
   :target: https://twitter.com/intent/tweet?text=Checkout+%23DeepCpG%3A+%23DeepLearning+for+predicting+DNA+methylation%2C+%40cangermueller
